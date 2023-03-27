@@ -1,0 +1,20 @@
+{
+  "name": "backend-inventarios",
+  "version": "1.0.0",
+  "description": "API REST utilizando JavaScript del lado del servidor con NodeJs.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Jenny",
+    "Izquierdo"
+  ],
+  "author": "Jenny Izquierdo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2"
+  }
+}
